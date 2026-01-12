@@ -4,12 +4,6 @@ SnapTalk is a modern **real-time messaging and video communication web applicati
 
 ---
 
-## 🚀 Live Demo
-🔗 https://your-live-demo-link.com  
-*(Replace this with your deployed link)*
-
----
-
 ## 🛠️ Tech Stack
 
 ### Frontend
@@ -84,3 +78,4 @@ cd frontend
 npm install
 npm run dev
 ```
+
